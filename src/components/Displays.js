@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Display = () => (
+const Displays = () => (
   <>
     <div className="display-container">
       <div className="display display-2">1</div>
@@ -30,4 +30,4 @@ const Display = () => (
   </>
 );
 
-export default Display;
+export default Displays;
