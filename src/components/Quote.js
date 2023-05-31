@@ -31,15 +31,7 @@ const Quote = () => {
 
   if (isLoading) return <div>Loading...</div>;
 
-  return (
-  // <ul>
-  //   {data.slice(0, 3).map((item) => (
-  //     <li key={item.id}>{item.title}</li>
-  //   ))}
-  // </ul>
-
-    <div>{data}</div>
-  );
+  return <div>{data}</div>;
 };
 
 export default Quote;
