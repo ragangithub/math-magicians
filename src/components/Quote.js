@@ -29,9 +29,9 @@ const Quote = () => {
 
   if (hasError) return <div>Something went wrong!</div>;
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return <div className="quote">Loading...</div>;
 
-  return <div>{data}</div>;
+  return <div className="quote">{data}</div>;
 };
 
 export default Quote;
