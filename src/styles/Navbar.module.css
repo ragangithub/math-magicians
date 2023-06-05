@@ -1,0 +1,30 @@
+/* navigation */
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.nav {
+  display: flex;
+  padding: 10px;
+  gap: 40px;
+  list-style: none;
+}
+
+.border {
+  border-left: 2px solid;
+}
+
+li > * {
+  text-decoration: none;
+  color: rgb(65, 55, 197);
+}
+
+li > *:hover {
+  text-decoration: underline;
+}
+
+/* end of  */

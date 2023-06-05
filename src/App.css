@@ -7,7 +7,10 @@
 }
 
 .calculator {
-  width: 400px;
+  width: 70%;
+  display: flex;
+  margin: 150px auto;
+  gap: 50px;
 }
 
 .display-container {
@@ -57,4 +60,12 @@
 
 .operator {
   background-color: #f5913e;
+}
+
+.quote {
+  width: 90%;
+  margin: 150px auto;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
 }
