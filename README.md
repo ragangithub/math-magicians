@@ -121,6 +121,11 @@ Coming soon
 - GitHub: [@ragangithub](https://github.com/ragangithub)
 - LinkedIn: [ragan-hailu-318640228](https://www.linkedin.com/in/ragan-hailu-318640228/)
 
+👤 Misal Azeem
+
+- GitHub: [@misalazeem](https://github.com/misalazeem)
+- LinkedIn: [Misal Azeem](https://www.linkedin.com/in/misal-94755a82/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
