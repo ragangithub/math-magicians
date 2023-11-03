@@ -119,7 +119,7 @@ Coming soon
 👤 Ragan Hailu
 
 - GitHub: [@ragangithub](https://github.com/ragangithub)
-- LinkedIn: [ragan-hailu-318640228](https://www.linkedin.com/in/ragan-hailu-318640228/)
+- LinkedIn: [ragan-hailu-318640228](https://www.linkedin.com/in/raganhailu/)
 
 👤 Misal Azeem
 
