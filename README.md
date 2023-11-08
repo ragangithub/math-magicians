@@ -124,7 +124,7 @@ Coming soon
 👤 Misal Azeem
 
 - GitHub: [@misalazeem](https://github.com/misalazeem)
-- LinkedIn: [Misal Azeem](https://www.linkedin.com/in/misal-94755a82/)
+- LinkedIn: [Misal Azeem](https://www.linkedin.com/in/misal-azeem/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
